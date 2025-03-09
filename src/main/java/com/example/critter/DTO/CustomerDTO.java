@@ -2,10 +2,6 @@ package com.example.critter.DTO;
 
 import java.util.List;
 
-/**
- * Represents the form that customer request and response data takes. Does not map
- * to the database directly.
- */
 public class CustomerDTO {
     private long id;
     private String name;
